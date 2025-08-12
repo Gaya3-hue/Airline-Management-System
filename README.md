@@ -21,32 +21,15 @@ The **Airline Management System** is a Java desktop application for managing bas
 
 <img width="323" height="369" alt="image" src="https://github.com/user-attachments/assets/46459a8e-ee47-49c4-97d3-e66538b2c894" />
 
-## Setup & Run Instructions
+## Installation & Setup
+1. Install **Java (JDK 8+)**, **NetBeans IDE**, and **MySQL Workbench**.
+2. Import the SQL script into MySQL to set up the database schema.
+3. Open the project in NetBeans.
+4. Update the `Conn.java` file with your MySQL credentials.
+5. Build and run the project.
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Gaya3-hue/Airline-Management-System.git
-   cd AirlineManagementSystem-master
-   
-2. Import the project into your IDE (Eclipse, IntelliJ, NetBeans).
+---
 
-3. Set up the database:
+**Author:** [A.L.V.Gayathri]  
+**GitHub:** [(https://github.com/Gaya3-hue/Airline-Management-System)]  
 
-- Create a local database.
-- Import the SQL file from the database/ folder.
-
-4. Configure JDBC connection in your code:
-   
-String url = "jdbc:mysql://localhost:3306/your_database";
-String user = "root";
-String password = "your_password";
-
-5. Run the application using your IDE's run functionality.
-
-Downloadable Assets
-
-- Icons & Database Files: Google Drive Link
-- Complete Project Archive: Google Drive Link
-
-License
-This project is released under the MIT License.
