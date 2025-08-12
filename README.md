@@ -30,6 +30,6 @@ The **Airline Management System** is a Java desktop application for managing bas
 
 ---
 
-**Author:** [A.L.V.Gayathri]  
-**GitHub:** [(https://github.com/Gaya3-hue/Airline-Management-System)]  
+**Author:** A.L.V.Gayathri
+**GitHub:** (https://github.com/Gaya3-hue/Airline-Management-System)  
 
