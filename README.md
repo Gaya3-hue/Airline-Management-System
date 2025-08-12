@@ -17,6 +17,10 @@ The **Airline Management System** is a Java desktop application for managing bas
 - Relational database (such as MySQL)
 - GUI icons and assets included
 
+## Project Structure
+
+<img width="323" height="369" alt="image" src="https://github.com/user-attachments/assets/46459a8e-ee47-49c4-97d3-e66538b2c894" />
+
 ## Setup & Run Instructions
 
 1. **Clone the repository:**
